@@ -5901,3 +5901,4 @@ env/Lib/site-packages/psycopg2-2.8.5.dist-info/RECORD
 env/Lib/site-packages/psycopg2-2.8.5.dist-info/top_level.txt
 env/Lib/site-packages/psycopg2-2.8.5.dist-info/WHEEL
 env/Scripts/gunicorn.exe
+accounts/__pycache__/views.cpython-38.pyc
